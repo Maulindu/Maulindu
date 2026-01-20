@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Maulindu 👋
 
-<!--
-**Maulindu/Maulindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer** | Problem Solver | Tech Explorer
 
-Here are some ideas to get you started:
+I enjoy building practical projects, learning how systems work under the hood, and turning ideas into clean, functional code. Currently focused on strengthening my fundamentals and creating projects that actually *do something useful*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+* **Languages:** JavaScript, Python, Typescript, HTML/CSS
+* **Frontend:** HTML, CSS, React, Next.js
+* **Backend / DB:** Node.js, MongoDB, Express
+* **Tools:** Git, GitHub, Chrome DevTools
+
+---
+
+### 🚀 Projects
+
+* **SisyphusScrolls**
+  Web application to explore philosophers and historical ideas through an interactive, content-driven interface, with timeline and geographical components.
+
+* **AI Video-Generator**
+  Generate videos using simple prompts
+  
+
+*Currently working on: * * **News Manipulation Detection Tool**
+  Analyzes articles/webpages to highlight manipulative language and bias patterns.
+
+---
+
+### 📌 Currently
+
+* Improving **DSA & system thinking**
+* Learning **TypeScript & Angular**
+* Building complex and unique projects 
+
+---
+
+⭐ *Always learning. Always building.*
