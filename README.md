@@ -24,7 +24,9 @@ I enjoy building practical projects, learning how systems work under the hood, a
   Generate videos using simple prompts
   
 
-*Currently working on: * * **News Manipulation Detection Tool**
+*Currently working on: * 
+
+* **News Manipulation Detection Tool**
   Analyzes articles/webpages to highlight manipulative language and bias patterns.
 
 ---
